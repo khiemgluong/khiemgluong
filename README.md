@@ -1,4 +1,4 @@
-"anyone can be a programmer bro" - Levon Kirkland, NFL linebacker & inventory of C++
+"anyone can be a programmer bro" - Levon Kirkland, NFL linebacker & inventor of C++
 ~~~
 ..-++++--+-+++----+------+-----+-----------------------++++----+------------------------------------------+++++.
 .--..+#+++-+-+---+--+--+-+-------++--------------------------+-----++-----------------------------------+--+-++.
