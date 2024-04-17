@@ -1,14 +1,4 @@
-
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/i-comit/i-ncript/main/build/appicon.png" alt="Sample Image" title="i-ncript logo" width="40" height="40"/>
-    </td>
-    <td>
-      <h3>i-ncript: <a href="https://github.com/i-comit/i-ncript">a portable, open source data encryption app</a>.</h3>
-    </td>
-  </tr>
-</table>
+### i-ncript: [a portable, open source data encryption app](https://github.com/i-comit/i-ncript).
 
 ### Blade Ballad: [a kinematics based melee game w/ Unity](https://blade-ballad.com).
 
