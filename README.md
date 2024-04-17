@@ -1,10 +1,14 @@
 
-<div style="display: flex; justify-content: left; align-items: center; width: 90%; gap:1em">
-
-<p style="font-size: 1.5rem; font-weight:600 !important">i-ncript:<a href="https://github.com/i-comit/i-ncript"> a portable, open source data encryption app</a>.</p>
-<img src="https://raw.githubusercontent.com/i-comit/i-ncript/main/build/appicon.png" alt="Dark mode on VAULT page w/ Blue Accent, showing Logger page while decrypting files" style="flex-grow: 1; max-width: 50px; height: 50px;">
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/i-comit/i-ncript/main/build/appicon.png" alt="Sample Image" title="i-ncript logo" width="40" height="40"/>
+    </td>
+    <td>
+      <h3>i-ncript: <a href="https://github.com/i-comit/i-ncript">a portable, open source data encryption app</a>.</h3>
+    </td>
+  </tr>
+</table>
 
 ### Blade Ballad: [a kinematics based melee game w/ Unity](https://blade-ballad.com).
 
